@@ -906,7 +906,7 @@
 						],
 						"_id": "3",
 						"_Date": "21.9",
-						"_NumLesson": "4"
+						"_NumLesson": "3"
 					},
 					{
 						"lesson": [
@@ -937,7 +937,7 @@
 						],
 						"_id": "4",
 						"_Date": "28.9",
-						"_NumLesson": "3"
+						"_NumLesson": "4"
 					}
 				]
 			}
